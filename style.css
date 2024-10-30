@@ -1,0 +1,71 @@
+body {
+    background-color: yellow;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+header nav a {
+    color: orangered;
+    text-decoration: none;
+}
+
+h1 {
+    color: darkgoldenrod;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 0;
+}
+
+p {
+    font-size: 18px;
+    color: green;
+}
+
+header {
+    color: red;
+    padding: 20px;
+    text-align: center;
+    background-color: chartreuse;
+}
+
+.welcome {
+    color: orangered;
+    text-align: center;
+}
+
+.the {
+    text-align: center;
+    background-color: rgb(12, 178, 23);
+    color: red;
+}
+
+.THIS {
+    color: RED;
+}
+
+.name {
+    color: yellow;
+}
+
+.director {
+    text-align: center;
+    background-color: red;
+}
+
+.project {
+    text-align: center;
+    background-color: blue;
+}
+
+.style {
+    background-color: white;
+}
